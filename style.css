@@ -1,0 +1,46 @@
+:root {
+    --background-page: #EAEAEA;
+    --background-recipe: #FFFFFF;
+    --title-subtitle: #1B1B1B;
+    --footer-legend: #8F8F8F;
+    --other-texts: #39393A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-page);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2 {
+    color: var(--title-subtitle);
+}
+
+p {
+    color: var(--other-texts)
+}
+
+legend {
+    color: var(--footer-legend);
+}
+
+.son {
+    margin: 0 auto;
+}
+
+.son {
+    background-color: var(--background-recipe);
+    width: min-content;
+
+    border-radius: .4rem; 
+}
+
+.footer {
+    margin-left: 10rem;
+}
