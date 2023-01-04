@@ -1,15 +1,15 @@
 # Recipe-Page | Rocketseat 🌩️
-- A webpage that is a recipe for making waffles, built with ``HTML`` and ``CSS ``. 
-- **Note:** Not responsive. Not intended for use on mobile devices.
+- Uma página da web que é uma receita para fazer waffles, construída com ``HTML`` and ``CSS ``. 
+- **Observação:** Não é responsivo. Não é possível o uso em dispositivos móveis.
 
 ## Techs 🌱
 - HTML 
 - CSS
 
 ## Conclusion 🧠
-- The page is not fully complete and needs repairs. I will make it responsive soon.
+- A página não está totalmente completa e precisa de reparos. Vou torná-lo responsivo em breve.
 
-## Image 🎩
+## Imagem of Code 🎩
 ![image](https://user-images.githubusercontent.com/119816215/210182330-ed2389ad-9c9d-4ec2-bac5-a1ef2a35a709.png)
 
 
